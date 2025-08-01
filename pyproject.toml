@@ -26,6 +26,8 @@ dependencies = [
     "joblib",
     "scipy",
     "tensorflow",
+    "plotly",
+    "tbats",
 ]
 
 [build-system]
